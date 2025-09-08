@@ -14,4 +14,10 @@
 # Build hero section
 - Add background image
   - Add wrapper around hero section.
-  
+  - Make it mobile responsive
+
+# Build footer
+  - Add background img
+  - Add content
+  - Add grid layout
+  - Apply CSS
