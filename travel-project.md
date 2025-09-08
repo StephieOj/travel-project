@@ -7,3 +7,11 @@
 - How many pages, is CSS or JS required...
 - Set up fonts
 
+# Create initial HTML skeleton and import images for project.
+
+# Host on Netlify
+
+# Build hero section
+- Add background image
+  - Add wrapper around hero section.
+  
