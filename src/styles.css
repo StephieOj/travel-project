@@ -250,6 +250,31 @@ section.destinations h2 {
 .learn-more-btn:hover { 
   background-color: #272044;
 }
+.gallery h2 {
+   text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 5px;
+  opacity: 0.3;
+  color: #272044;
+  text-transform: uppercase;
+  margin: 0;
+  padding-bottom: 30px;
+}
+.gallery h3 {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.5;
+  color: #272044;
+  margin: 0;
+  padding-bottom: 30px;
+}
 
 footer {
   color: white;
@@ -348,7 +373,7 @@ main p{
 .embed {
   aspect-ratio: 16 / 9;
 }
-
 .footer-col-1 {
 margin-top: 20px;
-}}
+}
+}

@@ -21,3 +21,10 @@
   - Add content
   - Add grid layout
   - Apply CSS
+
+# Add Main body
+  - embed Google maps
+
+# Add Gallery 
+  - Add embeds from instagram
+  -
